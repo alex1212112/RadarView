@@ -1,11 +1,11 @@
-##RadarViw
+## RadarViw
 
 A radarView demo
 
-###demo
+### demo
 ![](snap.gif)
 
-###How to use
+### How to use
 
 ```objc
 CSTRadarView *radarView = [[CSTRadarView alloc] init];
